@@ -27,7 +27,19 @@
             },
             "23": {
               "title": "XXX.dyndns.info",
-              "id": 13
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "Map external XXX.ch and XXX.org requests to the Private Web Hosting",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  },
+                  "ideas": {},
+                  "id": 54
+                }
+              }
             },
             "0.5": {
               "title": "mail@XXX.ch (hosted)",
@@ -43,7 +55,7 @@
                   "id": 15,
                   "attr": {
                     "style": {
-                      "background": "#008000"
+                      "background": "#ffcc99"
                     }
                   }
                 }
@@ -53,6 +65,47 @@
                   "background": "#E0E0E0"
                 }
               }
+            },
+            "0.25": {
+              "title": "user1@YYY.ch (Mail only)",
+              "ideas": {},
+              "id": 25,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "0.375": {
+              "title": "user2@ZZZ.ch (Mail only)",
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {},
+              "id": 26
+            },
+            "0.125": {
+              "title": "GitHub",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Storing Application Source Code",
+                  "id": 38,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                }
+              },
+              "id": 37
             }
           }
         },
@@ -72,7 +125,8 @@
             "style": {
               "background": "#99cc00"
             }
-          }
+          },
+          "ideas": {}
         },
         "4": {
           "title": "iPad",
@@ -117,6 +171,37 @@
         }
       }
     },
+    "2": {
+      "title": "External Disks",
+      "attr": {
+        "style": {
+          "background": "#99ccff"
+        }
+      },
+      "id": 36,
+      "ideas": {
+        "1": {
+          "title": "Used for Time Machine",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "ideas": {},
+          "id": 49
+        },
+        "2": {
+          "title": "Manually maintained Backups for all users",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "ideas": {},
+          "id": 50
+        }
+      }
+    },
     "-1": {
       "title": "Network User",
       "id": 16,
@@ -124,23 +209,159 @@
         "style": {
           "background": "#ffff99"
         }
-      }
-    },
-    "-11": {
-      "title": "Music",
-      "id": 17,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
-        }
-      }
-    },
-    "-21": {
-      "title": "Photos",
-      "id": 18,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
+      },
+      "ideas": {
+        "1": {
+          "title": "User1",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {},
+          "id": 28
+        },
+        "2": {
+          "title": "User2",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Shared User Group",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {},
+              "id": 34
+            }
+          },
+          "id": 29
+        },
+        "3": {
+          "title": "Development User1",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {},
+          "id": 30
+        },
+        "4": {
+          "title": "Development User2",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {},
+          "id": 31
+        },
+        "2.5": {
+          "title": "Shared User",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "iTunes Master",
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Music",
+                  "id": 17,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc00"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Synchronized completely to the Macbook",
+                      "attr": {
+                        "style": {
+                          "background": "#ffcc99"
+                        }
+                      },
+                      "id": 44,
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Not Synchronized to the iMac",
+                      "attr": {
+                        "style": {
+                          "background": "#ff0000"
+                        }
+                      },
+                      "id": 52
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Backup for the iPad and iPhone",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  },
+                  "id": 46,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Synchronize selection of Music and Photos to the iPad and iPhone ",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  },
+                  "id": 47
+                }
+              },
+              "id": 33
+            },
+            "2": {
+              "title": "Photos",
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Not Synchronized to the Macbook or iMac",
+                  "id": 51,
+                  "attr": {
+                    "style": {
+                      "background": "#ff0000"
+                    }
+                  },
+                  "ideas": {}
+                }
+              }
+            },
+            "3": {
+              "title": "Calender / Contact",
+              "id": 21,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
+            }
+          },
+          "id": 32
         }
       }
     },
@@ -151,23 +372,48 @@
         "style": {
           "background": "#ffff99"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Accesspoint for the Macbook",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "id": 43,
+          "ideas": {}
+        }
       }
     },
     "-0.25": {
-      "title": "Web Hosting",
+      "title": "Web Hosting (secure access via https only)",
       "id": 20,
       "attr": {
         "style": {
           "background": "#ffff99"
         }
-      }
-    },
-    "-31": {
-      "title": "Calender / Contact",
-      "id": 21,
-      "attr": {
-        "style": {
-          "background": "#ffcc00"
+      },
+      "ideas": {
+        "1": {
+          "title": "My Dynamic Homepage",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "id": 41,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Web Applications (Rails)",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "id": 42,
+          "ideas": {}
         }
       }
     },
@@ -178,7 +424,102 @@
         "style": {
           "background": "#ffff99"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Storing Application Data",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "ideas": {}
+        },
+        "2": {
+          "title": "Synchronise My Static Homepage",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "id": 40,
+          "ideas": {}
+        }
+      }
+    },
+    "-6": {
+      "title": "Local Admin User",
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      },
+      "id": 27
+    },
+    "-0.75": {
+      "title": "Time Machine",
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      },
+      "id": 35,
+      "ideas": {
+        "1": {
+          "title": "Backup for the iMac and Macbook",
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          },
+          "ideas": {},
+          "id": 48
+        }
+      }
+    },
+    "-0.375": {
+      "title": "DNS",
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      },
+      "ideas": {},
+      "id": 53
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 34,
+      "ideaIdTo": 29,
+      "attr": {
+        "style": {
+          "color": "#000000",
+          "lineStyle": "solid",
+          "arrow": false
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 32,
+      "ideaIdTo": 34,
+      "attr": {
+        "style": {
+          "color": "#000000",
+          "lineStyle": "solid"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 28,
+      "ideaIdTo": 34,
+      "attr": {
+        "style": {
+          "color": "#000000",
+          "lineStyle": "solid"
+        }
       }
     }
-  }
+  ]
 }
