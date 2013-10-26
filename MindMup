@@ -1,5 +1,184 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Mac Mini Server",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#339966"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "WLAN Router",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Cable Modem (no static IP)",
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#99ccff"
+            }
+          },
+          "ideas": {
+            "13": {
+              "title": "XXX.org (Domain only)",
+              "id": 12
+            },
+            "23": {
+              "title": "XXX.dyndns.info",
+              "id": 13
+            },
+            "0.5": {
+              "title": "mail@XXX.ch (hosted)",
+              "id": 14,
+              "ideas": {}
+            },
+            "1.25": {
+              "title": "XXX.ch (hosted)",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "My Static Homepage",
+                  "id": 15,
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "iMac (ethernet)",
+          "id": 7,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "Macbook",
+          "id": 8,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "4": {
+          "title": "iPad",
+          "id": 9,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "5": {
+          "title": "iPhone",
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "6": {
+          "title": "Apple TV",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#99ccff"
+            }
+          }
+        },
+        "7": {
+          "title": "Airport Express (Music)",
+          "id": 23,
+          "attr": {
+            "style": {
+              "background": "#99ccff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99ccff"
+        }
+      }
+    },
+    "-1": {
+      "title": "Network User",
+      "id": 16,
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      }
+    },
+    "-11": {
+      "title": "Music",
+      "id": 17,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-21": {
+      "title": "Photos",
+      "id": 18,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-0.5": {
+      "title": "VPN",
+      "id": 19,
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      }
+    },
+    "-0.25": {
+      "title": "Web Hosting",
+      "id": 20,
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      }
+    },
+    "-31": {
+      "title": "Calender / Contact",
+      "id": 21,
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-0.125": {
+      "title": "Git Server",
+      "id": 24,
+      "attr": {
+        "style": {
+          "background": "#ffff99"
+        }
+      }
+    }
+  }
 }
