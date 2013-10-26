@@ -116,6 +116,37 @@
             "style": {
               "background": "#99cc00"
             }
+          },
+          "ideas": {
+            "2": {
+              "title": "Used by User1",
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              },
+              "ideas": {},
+              "id": 60
+            },
+            "3": {
+              "title": "Used by User2",
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              },
+              "ideas": {},
+              "id": 61
+            },
+            "13": {
+              "title": "Used by Shared User",
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              },
+              "id": 59
+            }
           }
         },
         "3": {
@@ -126,7 +157,28 @@
               "background": "#99cc00"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Used by Development User1",
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              },
+              "id": 57,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Used by Shared User",
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              },
+              "id": 58,
+              "ideas": {}
+            }
+          }
         },
         "4": {
           "title": "iPad",
@@ -134,6 +186,23 @@
           "attr": {
             "style": {
               "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Used by User1",
+              "id": 55,
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                },
+                "position": [
+                  61,
+                  1,
+                  1
+                ]
+              },
+              "ideas": {}
             }
           }
         },
@@ -143,6 +212,18 @@
           "attr": {
             "style": {
               "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Used by User2",
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              },
+              "id": 56,
+              "ideas": {}
             }
           }
         },
@@ -215,7 +296,7 @@
           "title": "User1",
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#339966"
             }
           },
           "ideas": {},
@@ -225,7 +306,7 @@
           "title": "User2",
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#339966"
             }
           },
           "ideas": {
@@ -236,7 +317,17 @@
                   "background": "#ffff99"
                 }
               },
-              "ideas": {},
+              "ideas": {
+                "1": {
+                  "title": "Shared Documents",
+                  "id": 62,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                }
+              },
               "id": 34
             }
           },
@@ -246,7 +337,7 @@
           "title": "Development User1",
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#339966"
             }
           },
           "ideas": {},
@@ -256,7 +347,7 @@
           "title": "Development User2",
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#339966"
             }
           },
           "ideas": {},
@@ -266,7 +357,7 @@
           "title": "Shared User",
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#339966"
             }
           },
           "ideas": {
@@ -370,7 +461,7 @@
       "id": 19,
       "attr": {
         "style": {
-          "background": "#ffff99"
+          "background": "#ff0000"
         }
       },
       "ideas": {
@@ -448,15 +539,6 @@
         }
       }
     },
-    "-6": {
-      "title": "Local Admin User",
-      "attr": {
-        "style": {
-          "background": "#ffff99"
-        }
-      },
-      "id": 27
-    },
     "-0.75": {
       "title": "Time Machine",
       "attr": {
@@ -482,7 +564,7 @@
       "title": "DNS",
       "attr": {
         "style": {
-          "background": "#ffff99"
+          "background": "#ff0000"
         }
       },
       "ideas": {},
